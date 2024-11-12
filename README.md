@@ -1,1 +1,1 @@
-#Docker de mi proyecto (por si lo necesitas)
+Docker de mi proyecto (por si lo necesitas)
